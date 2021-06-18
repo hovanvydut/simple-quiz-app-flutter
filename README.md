@@ -1,16 +1,26 @@
-# flutter_complete_guide
+# 🎉 Simple Quiz App
 
-A new Flutter project.
+This project followed the instruction of a [udemy course](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 
-## Getting Started
+## ⚙️ INSTALLATION
 
-This project is a starting point for a Flutter application.
+```zhs
+git clone git@github.com:hovanvydut/simple-quiz-app-flutter.git
 
-A few resources to get you started if this is your first Flutter project:
+cd simple-quiz-app-flutter/
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Please open your emulator, and then:
+flutter run
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👀 GLIMPSE THE PROJECT
+
+![Image 1][1]
+
+![Image 2][2]
+
+![Image 3][3]
+
+[1]: https://res.cloudinary.com/dgext7ewd/image/upload/v1624028148/git/simple-quiz-app-flutter/Screenshot_1624028124_rur4dd.png
+[2]: https://res.cloudinary.com/dgext7ewd/image/upload/v1624028148/git/simple-quiz-app-flutter/Screenshot_1624027870_hn4m4k.png
+[3]: https://res.cloudinary.com/dgext7ewd/image/upload/v1624028148/git/simple-quiz-app-flutter/Screenshot_1624028129_wy56c0.png
